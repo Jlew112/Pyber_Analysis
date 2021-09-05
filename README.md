@@ -8,34 +8,34 @@ The cities were designated as either Urban, Rural, or Suburban, so we have built
 
 ## Graphs
 First, we created a Bubble scatter plot that shows the Average Fares against the number of rides.
-![alt text](https://github.com/Jlew112/Pyber_analysis/blob/main/analysis/Fig1.PNG)
+![alt text](https://github.com/Jlew112/Pyber_Analysis/blob/main/Pyber_Analysis/analysis/Fig1.png)
 As you can see, there is a clear ride volume advantage in the Urban areas, but that is to be expected given the population.
 It would appear that the average fares are generally higher in the rural areas, but thats to be expected given the longer distances that need to be taken.
 
 Second, we created a Box and Whisker plot to show the number of rides in each of the city types.
-![alt text](https://github.com/Jlew112/Pyber_analysis/blob/main/analysis/Fig2.PNG)
+![alt text](https://github.com/Jlew112/Pyber_Analysis/blob/main/Pyber_Analysis/analysis/Fig2.png)
 outside of 1 cities outlier, it would appear that the data given all lies within the reasonable quartiles.
 
 Third, We wanted to check the driver numbers for each city type. Also with a Box and Whisker
-![alt text](https://github.com/Jlew112/Pyber_analysis/blob/main/analysis/Fig4.PNG)
+![alt text](https://github.com/Jlew112/Pyber_Analysis/blob/main/Pyber_Analysis/analysis/Fig4.png)
 Clearly, there are more drivers available and willing to work in the Urban areas, which makes sense given the population and ride volume there.
 
 Next, we broke down the total fares by city type with a pie chart.
-![alt text](https://github.com/Jlew112/Pyber_analysis/blob/main/analysis/Fig5.PNG)
+![alt text](https://github.com/Jlew112/Pyber_Analysis/blob/main/Pyber_Analysis/analysis/Fig5.png)
 - Urban 62.7%
 - Suburban 30.5%
 - Rural 6.8%
 Given the volume of riders available in Urban areas, it would make sense to see the breakdown above.
 
 We also broke down the total rides by city type.
-![alt text](https://github.com/Jlew112/Pyber_analysis/blob/main/analysis/Fig6.PNG)
+![alt text](https://github.com/Jlew112/Pyber_Analysis/blob/main/Pyber_Analysis/analysis/Fig6.png)
 - Urban 68.4%
 - Suburban 26.3%
 - Rural 5.3%
 Its telling that Rural and Suburban cites are able to provide a larger portion of the fares with a smaller number of rides, but as we saw the average fares were higher in those areas, its nice to see some consistency.
 
 Finally, we can see the driver numbers per city type
-![alt text](https://github.com/Jlew112/Pyber_analysis/blob/main/analysis/Fig7.PNG)
+![alt text](https://github.com/Jlew112/Pyber_Analysis/blob/main/Pyber_Analysis/analysis/Fig7.png)
 - Urban 80.9%
 - Suburban 16.5%
 - Rural 2.6%
